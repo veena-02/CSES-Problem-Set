@@ -1,3 +1,3 @@
-![img](https://www.cdn.geeksforgeeks.org/wp-content/uploads/Competitive-Programming-1.jpg)
+![img](https://cses.fi/logo.png?1)
 [C++ Bitset GFG](https://www.geeksforgeeks.org/c-bitset-and-its-application/)
 
